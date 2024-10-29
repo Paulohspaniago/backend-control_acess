@@ -1,0 +1,14 @@
+{
+  "name": "backend-control_acess",
+  "version": "1.0.0",
+  "description": "backend do sistema de ponto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paulo paniago",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
